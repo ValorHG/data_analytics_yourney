@@ -1,0 +1,13 @@
+Thank you for getting to this github repository.
+
+These are my works (solo and group). I hope this shows my competence.
+
+I wanted to show it for the Applied Data Science master application.
+
+After i got a reply from the board that looks over the applications, 
+I will delete this directory as it does contain assignments and such.
+
+I will upload my bachelor thesis analysis report in here if i can. I will most likely
+use R to analyse the data that I collected
+
+Again I hope this shows my competence and drive for the Applied Data Science Master.
